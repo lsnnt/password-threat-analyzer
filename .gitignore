@@ -1,0 +1,7 @@
+# Ignore wordlists
+wordlists/
+wordlists/*.txt
+
+# Optional
+*.log
+
