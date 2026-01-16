@@ -26,6 +26,13 @@ This tool prioritizes security understanding, not exploit execution.
 
 ---
 
+## Building
+```bash
+git clone https://github.com/R4UN4K-D3Y/password-threat-analyzer.git
+cd password-threat-analyzer
+make all
+```
+
 ## Usage:
 
 ```bash
